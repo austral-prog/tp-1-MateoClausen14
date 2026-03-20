@@ -11,15 +11,11 @@ def swap():
     x = 10
     y = 20
 
-    print("x")
     print(x)
-    print("y")
     print(y)
 
     x = 20
     y = 10
 
-    print("x después del intercambio")
     print(x)
-    print("y después del intercambio")
     print(y)

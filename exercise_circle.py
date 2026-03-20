@@ -11,7 +11,5 @@ def circle():
     """
     radio = 5
 
-    print ("área")
     print(pi*radio**2)
-    print("circumferencia")
     print(2*pi*radio)

@@ -15,11 +15,7 @@ def length():
     pies = 1000/0.3048
     pulgadas = 1000/0.0254
 
-    print("kilometro")
     print(kilometro)
-    print("millas")
     print(float(millas))
-    print("pies")
     print(pies)
-    print("pulgadas")
     print(pulgadas)

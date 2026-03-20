@@ -18,11 +18,7 @@ def statistics():
     mínimo = num2
     rango = num3-num2
 
-    print("promedio")
     print(promedio)
-    print("máximo")
     print(máximo)
-    print("mínimo")
     print(mínimo)
-    print("rango")
     print(rango)

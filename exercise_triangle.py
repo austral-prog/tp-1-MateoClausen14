@@ -10,4 +10,3 @@ def triangle():
 
     print("área de un triangulo")
     print((base * altura) / 2)
-triangle()

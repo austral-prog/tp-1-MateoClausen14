@@ -18,4 +18,3 @@ def currency():
     print(10000/1600)
     print("reales")
     print(10000/250)
-currency()

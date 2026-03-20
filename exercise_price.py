@@ -11,9 +11,9 @@ def price():
     precio_base = 100
 
     impuesto = precio_base*21/100
-    subtotal = precio_base + impuesto
+    subtotal = precio_base+impuesto
     propina = precio_base/10
-    final = subtotal + propina
+    final = subtotal+propina
 
     print(impuesto)
     print(subtotal)
